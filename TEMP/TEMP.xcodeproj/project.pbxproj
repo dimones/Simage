@@ -1,0 +1,803 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4661A99C1931B8DF00779D6C /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9901931B8DF00779D6C /* 1.png */; };
+		4661A99D1931B8DF00779D6C /* 111.png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9911931B8DF00779D6C /* 111.png */; };
+		4661A99E1931B8DF00779D6C /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9921931B8DF00779D6C /* 2.png */; };
+		4661A99F1931B8DF00779D6C /* company(4 -5 tab).png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9931931B8DF00779D6C /* company(4 -5 tab).png */; };
+		4661A9A01931B8DF00779D6C /* like(3tab).png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9941931B8DF00779D6C /* like(3tab).png */; };
+		4661A9A11931B8DF00779D6C /* mastercard.png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9951931B8DF00779D6C /* mastercard.png */; };
+		4661A9A21931B8DF00779D6C /* most(3 tab).png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9961931B8DF00779D6C /* most(3 tab).png */; };
+		4661A9A31931B8DF00779D6C /* most(3tab).png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9971931B8DF00779D6C /* most(3tab).png */; };
+		4661A9A41931B8DF00779D6C /* paypal.png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9981931B8DF00779D6C /* paypal.png */; };
+		4661A9A51931B8DF00779D6C /* Untitled-1 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A9991931B8DF00779D6C /* Untitled-1 copy.png */; };
+		4661A9A61931B8DF00779D6C /* Untitled-1.psd in Resources */ = {isa = PBXBuildFile; fileRef = 4661A99A1931B8DF00779D6C /* Untitled-1.psd */; };
+		4661A9A71931B8DF00779D6C /* visa.png in Resources */ = {isa = PBXBuildFile; fileRef = 4661A99B1931B8DF00779D6C /* visa.png */; };
+		46C1F07719313D3E00D778BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46C1F07619313D3E00D778BE /* Foundation.framework */; };
+		46C1F07919313D3E00D778BE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46C1F07819313D3E00D778BE /* CoreGraphics.framework */; };
+		46C1F07B19313D3E00D778BE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46C1F07A19313D3E00D778BE /* UIKit.framework */; };
+		46C1F08119313D3E00D778BE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F07F19313D3E00D778BE /* InfoPlist.strings */; };
+		46C1F08319313D3E00D778BE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 46C1F08219313D3E00D778BE /* main.m */; };
+		46C1F08719313D3E00D778BE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 46C1F08619313D3E00D778BE /* AppDelegate.m */; };
+		46C1F08A19313D3E00D778BE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F08819313D3E00D778BE /* Main.storyboard */; };
+		46C1F08D19313D3E00D778BE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46C1F08C19313D3E00D778BE /* ViewController.m */; };
+		46C1F08F19313D3E00D778BE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F08E19313D3E00D778BE /* Images.xcassets */; };
+		46C1F09619313D3F00D778BE /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46C1F09519313D3F00D778BE /* XCTest.framework */; };
+		46C1F09719313D3F00D778BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46C1F07619313D3E00D778BE /* Foundation.framework */; };
+		46C1F09819313D3F00D778BE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 46C1F07A19313D3E00D778BE /* UIKit.framework */; };
+		46C1F0A019313D3F00D778BE /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F09E19313D3F00D778BE /* InfoPlist.strings */; };
+		46C1F0A219313D3F00D778BE /* TEMPTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 46C1F0A119313D3F00D778BE /* TEMPTests.m */; };
+		46C1F0B8193144EF00D778BE /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0AD193144EF00D778BE /* 1.png */; };
+		46C1F0B9193144EF00D778BE /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0AE193144EF00D778BE /* 2.png */; };
+		46C1F0BA193144EF00D778BE /* company(4 -5 tab).png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0AF193144EF00D778BE /* company(4 -5 tab).png */; };
+		46C1F0BB193144EF00D778BE /* like(3tab).png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0B0193144EF00D778BE /* like(3tab).png */; };
+		46C1F0BC193144EF00D778BE /* mastercard.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0B1193144EF00D778BE /* mastercard.png */; };
+		46C1F0BD193144EF00D778BE /* most(3 tab).png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0B2193144EF00D778BE /* most(3 tab).png */; };
+		46C1F0BE193144EF00D778BE /* most(3tab).png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0B3193144EF00D778BE /* most(3tab).png */; };
+		46C1F0BF193144EF00D778BE /* paypal.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0B4193144EF00D778BE /* paypal.png */; };
+		46C1F0C0193144EF00D778BE /* Untitled-1 copy.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0B5193144EF00D778BE /* Untitled-1 copy.png */; };
+		46C1F0C1193144EF00D778BE /* Untitled-1.psd in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0B6193144EF00D778BE /* Untitled-1.psd */; };
+		46C1F0C2193144EF00D778BE /* visa.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0B7193144EF00D778BE /* visa.png */; };
+		46C1F0D4193149C200D778BE /* img-01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0C5193149C200D778BE /* img-01.jpg */; };
+		46C1F0D5193149C200D778BE /* img-05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0C6193149C200D778BE /* img-05.jpg */; };
+		46C1F0D6193149C200D778BE /* LOGO.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0C7193149C200D778BE /* LOGO.png */; };
+		46C1F0D7193149C200D778BE /* Новый текстовый документ.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0C8193149C200D778BE /* Новый текстовый документ.txt */; };
+		46C1F0D8193149C200D778BE /* box2014_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0CA193149C200D778BE /* box2014_2.jpg */; };
+		46C1F0D9193149C200D778BE /* LOGO.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0CB193149C200D778BE /* LOGO.png */; };
+		46C1F0DA193149C200D778BE /* Новый текстовый документ.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0CC193149C200D778BE /* Новый текстовый документ.txt */; };
+		46C1F0DB193149C200D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0CE193149C200D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */; };
+		46C1F0DC193149C200D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0CF193149C200D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */; };
+		46C1F0DD193149C200D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0D0193149C200D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */; };
+		46C1F0DE193149C200D778BE /* LOGO.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0D1193149C200D778BE /* LOGO.png */; };
+		46C1F0DF193149C200D778BE /* LOGO2.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0D2193149C200D778BE /* LOGO2.png */; };
+		46C1F0E0193149C200D778BE /* демо женскрго.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0D3193149C200D778BE /* демо женскрго.txt */; };
+		46C1F0E719314ABE00D778BE /* 135125125.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0E219314ABE00D778BE /* 135125125.png */; };
+		46C1F0E819314ABE00D778BE /* mis_01-c149415d32b5c22bc3d9c770b2f1d421.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0E319314ABE00D778BE /* mis_01-c149415d32b5c22bc3d9c770b2f1d421.jpg */; };
+		46C1F0E919314ABE00D778BE /* mis_04-b6be5bb75bfcc6ba61de77a2c41a2994.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0E419314ABE00D778BE /* mis_04-b6be5bb75bfcc6ba61de77a2c41a2994.jpg */; };
+		46C1F0EA19314ABE00D778BE /* siQwktQpHQbJ7dYGCMTQfQ-article.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0E519314ABE00D778BE /* siQwktQpHQbJ7dYGCMTQfQ-article.jpg */; };
+		46C1F0EB19314ABE00D778BE /* Новый текстовый документ.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0E619314ABE00D778BE /* Новый текстовый документ.txt */; };
+		46C1F10119314CF600D778BE /* QIWI_Wallet_logotype_en_hor.ai in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0ED19314CF600D778BE /* QIWI_Wallet_logotype_en_hor.ai */; };
+		46C1F10219314CF600D778BE /* QIWI_Wallet_logotype_en_hor.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0EE19314CF600D778BE /* QIWI_Wallet_logotype_en_hor.png */; };
+		46C1F10319314CF600D778BE /* QIWI_Wallet_logotype_en_ver.ai in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0EF19314CF600D778BE /* QIWI_Wallet_logotype_en_ver.ai */; };
+		46C1F10419314CF600D778BE /* QIWI_Wallet_logotype_en_ver.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0F019314CF600D778BE /* QIWI_Wallet_logotype_en_ver.png */; };
+		46C1F10519314CF600D778BE /* img-01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0F219314CF600D778BE /* img-01.jpg */; };
+		46C1F10619314CF600D778BE /* img-05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0F319314CF600D778BE /* img-05.jpg */; };
+		46C1F10719314CF600D778BE /* LOGO.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0F419314CF600D778BE /* LOGO.png */; };
+		46C1F10819314CF600D778BE /* Новый текстовый документ.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0F519314CF600D778BE /* Новый текстовый документ.txt */; };
+		46C1F10919314CF600D778BE /* box2014_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0F719314CF600D778BE /* box2014_2.jpg */; };
+		46C1F10A19314CF600D778BE /* LOGO.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0F819314CF600D778BE /* LOGO.png */; };
+		46C1F10B19314CF600D778BE /* Новый текстовый документ.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0F919314CF600D778BE /* Новый текстовый документ.txt */; };
+		46C1F10C19314CF600D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0FB19314CF600D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */; };
+		46C1F10D19314CF600D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0FC19314CF600D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */; };
+		46C1F10E19314CF600D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0FD19314CF600D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */; };
+		46C1F10F19314CF600D778BE /* LOGO.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0FE19314CF600D778BE /* LOGO.png */; };
+		46C1F11019314CF600D778BE /* LOGO2.png in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F0FF19314CF600D778BE /* LOGO2.png */; };
+		46C1F11119314CF600D778BE /* демо женскрго.txt in Resources */ = {isa = PBXBuildFile; fileRef = 46C1F10019314CF600D778BE /* демо женскрго.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		46C1F09919313D3F00D778BE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 46C1F06B19313D3E00D778BE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 46C1F07219313D3E00D778BE;
+			remoteInfo = TEMP;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		4661A9901931B8DF00779D6C /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		4661A9911931B8DF00779D6C /* 111.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 111.png; sourceTree = "<group>"; };
+		4661A9921931B8DF00779D6C /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		4661A9931931B8DF00779D6C /* company(4 -5 tab).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "company(4 -5 tab).png"; sourceTree = "<group>"; };
+		4661A9941931B8DF00779D6C /* like(3tab).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "like(3tab).png"; sourceTree = "<group>"; };
+		4661A9951931B8DF00779D6C /* mastercard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mastercard.png; sourceTree = "<group>"; };
+		4661A9961931B8DF00779D6C /* most(3 tab).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "most(3 tab).png"; sourceTree = "<group>"; };
+		4661A9971931B8DF00779D6C /* most(3tab).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "most(3tab).png"; sourceTree = "<group>"; };
+		4661A9981931B8DF00779D6C /* paypal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = paypal.png; sourceTree = "<group>"; };
+		4661A9991931B8DF00779D6C /* Untitled-1 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Untitled-1 copy.png"; sourceTree = "<group>"; };
+		4661A99A1931B8DF00779D6C /* Untitled-1.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Untitled-1.psd"; sourceTree = "<group>"; };
+		4661A99B1931B8DF00779D6C /* visa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = visa.png; sourceTree = "<group>"; };
+		46C1F07319313D3E00D778BE /* TEMP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TEMP.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		46C1F07619313D3E00D778BE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		46C1F07819313D3E00D778BE /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		46C1F07A19313D3E00D778BE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		46C1F07E19313D3E00D778BE /* TEMP-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TEMP-Info.plist"; sourceTree = "<group>"; };
+		46C1F08019313D3E00D778BE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		46C1F08219313D3E00D778BE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		46C1F08419313D3E00D778BE /* TEMP-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TEMP-Prefix.pch"; sourceTree = "<group>"; };
+		46C1F08519313D3E00D778BE /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		46C1F08619313D3E00D778BE /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		46C1F08919313D3E00D778BE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		46C1F08B19313D3E00D778BE /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		46C1F08C19313D3E00D778BE /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		46C1F08E19313D3E00D778BE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		46C1F09419313D3F00D778BE /* TEMPTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TEMPTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		46C1F09519313D3F00D778BE /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		46C1F09D19313D3F00D778BE /* TEMPTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TEMPTests-Info.plist"; sourceTree = "<group>"; };
+		46C1F09F19313D3F00D778BE /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		46C1F0A119313D3F00D778BE /* TEMPTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TEMPTests.m; sourceTree = "<group>"; };
+		46C1F0AD193144EF00D778BE /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		46C1F0AE193144EF00D778BE /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		46C1F0AF193144EF00D778BE /* company(4 -5 tab).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "company(4 -5 tab).png"; sourceTree = "<group>"; };
+		46C1F0B0193144EF00D778BE /* like(3tab).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "like(3tab).png"; sourceTree = "<group>"; };
+		46C1F0B1193144EF00D778BE /* mastercard.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mastercard.png; sourceTree = "<group>"; };
+		46C1F0B2193144EF00D778BE /* most(3 tab).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "most(3 tab).png"; sourceTree = "<group>"; };
+		46C1F0B3193144EF00D778BE /* most(3tab).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "most(3tab).png"; sourceTree = "<group>"; };
+		46C1F0B4193144EF00D778BE /* paypal.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = paypal.png; sourceTree = "<group>"; };
+		46C1F0B5193144EF00D778BE /* Untitled-1 copy.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Untitled-1 copy.png"; sourceTree = "<group>"; };
+		46C1F0B6193144EF00D778BE /* Untitled-1.psd */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Untitled-1.psd"; sourceTree = "<group>"; };
+		46C1F0B7193144EF00D778BE /* visa.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = visa.png; sourceTree = "<group>"; };
+		46C1F0C5193149C200D778BE /* img-01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img-01.jpg"; sourceTree = "<group>"; };
+		46C1F0C6193149C200D778BE /* img-05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img-05.jpg"; sourceTree = "<group>"; };
+		46C1F0C7193149C200D778BE /* LOGO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO.png; sourceTree = "<group>"; };
+		46C1F0C8193149C200D778BE /* Новый текстовый документ.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Новый текстовый документ.txt"; sourceTree = "<group>"; };
+		46C1F0CA193149C200D778BE /* box2014_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = box2014_2.jpg; sourceTree = "<group>"; };
+		46C1F0CB193149C200D778BE /* LOGO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO.png; sourceTree = "<group>"; };
+		46C1F0CC193149C200D778BE /* Новый текстовый документ.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Новый текстовый документ.txt"; sourceTree = "<group>"; };
+		46C1F0CE193149C200D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png"; sourceTree = "<group>"; };
+		46C1F0CF193149C200D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png"; sourceTree = "<group>"; };
+		46C1F0D0193149C200D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png"; sourceTree = "<group>"; };
+		46C1F0D1193149C200D778BE /* LOGO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO.png; sourceTree = "<group>"; };
+		46C1F0D2193149C200D778BE /* LOGO2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO2.png; sourceTree = "<group>"; };
+		46C1F0D3193149C200D778BE /* демо женскрго.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "демо женскрго.txt"; sourceTree = "<group>"; };
+		46C1F0E219314ABE00D778BE /* 135125125.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 135125125.png; sourceTree = "<group>"; };
+		46C1F0E319314ABE00D778BE /* mis_01-c149415d32b5c22bc3d9c770b2f1d421.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "mis_01-c149415d32b5c22bc3d9c770b2f1d421.jpg"; sourceTree = "<group>"; };
+		46C1F0E419314ABE00D778BE /* mis_04-b6be5bb75bfcc6ba61de77a2c41a2994.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "mis_04-b6be5bb75bfcc6ba61de77a2c41a2994.jpg"; sourceTree = "<group>"; };
+		46C1F0E519314ABE00D778BE /* siQwktQpHQbJ7dYGCMTQfQ-article.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "siQwktQpHQbJ7dYGCMTQfQ-article.jpg"; sourceTree = "<group>"; };
+		46C1F0E619314ABE00D778BE /* Новый текстовый документ.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Новый текстовый документ.txt"; sourceTree = "<group>"; };
+		46C1F0ED19314CF600D778BE /* QIWI_Wallet_logotype_en_hor.ai */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = QIWI_Wallet_logotype_en_hor.ai; sourceTree = "<group>"; };
+		46C1F0EE19314CF600D778BE /* QIWI_Wallet_logotype_en_hor.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = QIWI_Wallet_logotype_en_hor.png; sourceTree = "<group>"; };
+		46C1F0EF19314CF600D778BE /* QIWI_Wallet_logotype_en_ver.ai */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = QIWI_Wallet_logotype_en_ver.ai; sourceTree = "<group>"; };
+		46C1F0F019314CF600D778BE /* QIWI_Wallet_logotype_en_ver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = QIWI_Wallet_logotype_en_ver.png; sourceTree = "<group>"; };
+		46C1F0F219314CF600D778BE /* img-01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img-01.jpg"; sourceTree = "<group>"; };
+		46C1F0F319314CF600D778BE /* img-05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "img-05.jpg"; sourceTree = "<group>"; };
+		46C1F0F419314CF600D778BE /* LOGO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO.png; sourceTree = "<group>"; };
+		46C1F0F519314CF600D778BE /* Новый текстовый документ.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Новый текстовый документ.txt"; sourceTree = "<group>"; };
+		46C1F0F719314CF600D778BE /* box2014_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = box2014_2.jpg; sourceTree = "<group>"; };
+		46C1F0F819314CF600D778BE /* LOGO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO.png; sourceTree = "<group>"; };
+		46C1F0F919314CF600D778BE /* Новый текстовый документ.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "Новый текстовый документ.txt"; sourceTree = "<group>"; };
+		46C1F0FB19314CF600D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png"; sourceTree = "<group>"; };
+		46C1F0FC19314CF600D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png"; sourceTree = "<group>"; };
+		46C1F0FD19314CF600D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png"; sourceTree = "<group>"; };
+		46C1F0FE19314CF600D778BE /* LOGO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO.png; sourceTree = "<group>"; };
+		46C1F0FF19314CF600D778BE /* LOGO2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = LOGO2.png; sourceTree = "<group>"; };
+		46C1F10019314CF600D778BE /* демо женскрго.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "демо женскрго.txt"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		46C1F07019313D3E00D778BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46C1F07919313D3E00D778BE /* CoreGraphics.framework in Frameworks */,
+				46C1F07B19313D3E00D778BE /* UIKit.framework in Frameworks */,
+				46C1F07719313D3E00D778BE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		46C1F09119313D3F00D778BE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46C1F09619313D3F00D778BE /* XCTest.framework in Frameworks */,
+				46C1F09819313D3F00D778BE /* UIKit.framework in Frameworks */,
+				46C1F09719313D3F00D778BE /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4661A98F1931B8DF00779D6C /* 124 */ = {
+			isa = PBXGroup;
+			children = (
+				4661A9901931B8DF00779D6C /* 1.png */,
+				4661A9911931B8DF00779D6C /* 111.png */,
+				4661A9921931B8DF00779D6C /* 2.png */,
+				4661A9931931B8DF00779D6C /* company(4 -5 tab).png */,
+				4661A9941931B8DF00779D6C /* like(3tab).png */,
+				4661A9951931B8DF00779D6C /* mastercard.png */,
+				4661A9961931B8DF00779D6C /* most(3 tab).png */,
+				4661A9971931B8DF00779D6C /* most(3tab).png */,
+				4661A9981931B8DF00779D6C /* paypal.png */,
+				4661A9991931B8DF00779D6C /* Untitled-1 copy.png */,
+				4661A99A1931B8DF00779D6C /* Untitled-1.psd */,
+				4661A99B1931B8DF00779D6C /* visa.png */,
+			);
+			path = 124;
+			sourceTree = "<group>";
+		};
+		46C1F06A19313D3E00D778BE = {
+			isa = PBXGroup;
+			children = (
+				46C1F07C19313D3E00D778BE /* TEMP */,
+				46C1F09B19313D3F00D778BE /* TEMPTests */,
+				46C1F07519313D3E00D778BE /* Frameworks */,
+				46C1F07419313D3E00D778BE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		46C1F07419313D3E00D778BE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F07319313D3E00D778BE /* TEMP.app */,
+				46C1F09419313D3F00D778BE /* TEMPTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		46C1F07519313D3E00D778BE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F07619313D3E00D778BE /* Foundation.framework */,
+				46C1F07819313D3E00D778BE /* CoreGraphics.framework */,
+				46C1F07A19313D3E00D778BE /* UIKit.framework */,
+				46C1F09519313D3F00D778BE /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		46C1F07C19313D3E00D778BE /* TEMP */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0AB193144E500D778BE /* Images */,
+				46C1F08519313D3E00D778BE /* AppDelegate.h */,
+				46C1F08619313D3E00D778BE /* AppDelegate.m */,
+				46C1F08819313D3E00D778BE /* Main.storyboard */,
+				46C1F08B19313D3E00D778BE /* ViewController.h */,
+				46C1F08C19313D3E00D778BE /* ViewController.m */,
+				46C1F08E19313D3E00D778BE /* Images.xcassets */,
+				46C1F07D19313D3E00D778BE /* Supporting Files */,
+			);
+			path = TEMP;
+			sourceTree = "<group>";
+		};
+		46C1F07D19313D3E00D778BE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F07E19313D3E00D778BE /* TEMP-Info.plist */,
+				46C1F07F19313D3E00D778BE /* InfoPlist.strings */,
+				46C1F08219313D3E00D778BE /* main.m */,
+				46C1F08419313D3E00D778BE /* TEMP-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		46C1F09B19313D3F00D778BE /* TEMPTests */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0A119313D3F00D778BE /* TEMPTests.m */,
+				46C1F09C19313D3F00D778BE /* Supporting Files */,
+			);
+			path = TEMPTests;
+			sourceTree = "<group>";
+		};
+		46C1F09C19313D3F00D778BE /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F09D19313D3F00D778BE /* TEMPTests-Info.plist */,
+				46C1F09E19313D3F00D778BE /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		46C1F0AB193144E500D778BE /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				4661A98F1931B8DF00779D6C /* 124 */,
+				46C1F0C3193149C200D778BE /* Демо материалы */,
+				46C1F0AC193144EF00D778BE /* 124 */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		46C1F0AC193144EF00D778BE /* 124 */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0AD193144EF00D778BE /* 1.png */,
+				46C1F0AE193144EF00D778BE /* 2.png */,
+				46C1F0AF193144EF00D778BE /* company(4 -5 tab).png */,
+				46C1F0B0193144EF00D778BE /* like(3tab).png */,
+				46C1F0B1193144EF00D778BE /* mastercard.png */,
+				46C1F0B2193144EF00D778BE /* most(3 tab).png */,
+				46C1F0B3193144EF00D778BE /* most(3tab).png */,
+				46C1F0B4193144EF00D778BE /* paypal.png */,
+				46C1F0B5193144EF00D778BE /* Untitled-1 copy.png */,
+				46C1F0B6193144EF00D778BE /* Untitled-1.psd */,
+				46C1F0B7193144EF00D778BE /* visa.png */,
+			);
+			path = 124;
+			sourceTree = "<group>";
+		};
+		46C1F0C3193149C200D778BE /* Демо материалы */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0EC19314CF600D778BE /* Демо материалы */,
+				46C1F0E119314ABE00D778BE /* местная еда */,
+				46C1F0C4193149C200D778BE /* Бритву */,
+				46C1F0C9193149C200D778BE /* Касперский */,
+				46C1F0CD193149C200D778BE /* Подписка на женское бельё */,
+			);
+			name = "Демо материалы";
+			path = "../../../Демо материалы";
+			sourceTree = "<group>";
+		};
+		46C1F0C4193149C200D778BE /* Бритву */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0C5193149C200D778BE /* img-01.jpg */,
+				46C1F0C6193149C200D778BE /* img-05.jpg */,
+				46C1F0C7193149C200D778BE /* LOGO.png */,
+				46C1F0C8193149C200D778BE /* Новый текстовый документ.txt */,
+			);
+			path = "Бритву";
+			sourceTree = "<group>";
+		};
+		46C1F0C9193149C200D778BE /* Касперский */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0CA193149C200D778BE /* box2014_2.jpg */,
+				46C1F0CB193149C200D778BE /* LOGO.png */,
+				46C1F0CC193149C200D778BE /* Новый текстовый документ.txt */,
+			);
+			path = "Касперский";
+			sourceTree = "<group>";
+		};
+		46C1F0CD193149C200D778BE /* Подписка на женское бельё */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0CE193149C200D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */,
+				46C1F0CF193149C200D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */,
+				46C1F0D0193149C200D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */,
+				46C1F0D1193149C200D778BE /* LOGO.png */,
+				46C1F0D2193149C200D778BE /* LOGO2.png */,
+				46C1F0D3193149C200D778BE /* демо женскрго.txt */,
+			);
+			path = "Подписка на женское бельё";
+			sourceTree = "<group>";
+		};
+		46C1F0E119314ABE00D778BE /* местная еда */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0E219314ABE00D778BE /* 135125125.png */,
+				46C1F0E319314ABE00D778BE /* mis_01-c149415d32b5c22bc3d9c770b2f1d421.jpg */,
+				46C1F0E419314ABE00D778BE /* mis_04-b6be5bb75bfcc6ba61de77a2c41a2994.jpg */,
+				46C1F0E519314ABE00D778BE /* siQwktQpHQbJ7dYGCMTQfQ-article.jpg */,
+				46C1F0E619314ABE00D778BE /* Новый текстовый документ.txt */,
+			);
+			name = "местная еда";
+			path = "../местная еда";
+			sourceTree = "<group>";
+		};
+		46C1F0EC19314CF600D778BE /* Демо материалы */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0ED19314CF600D778BE /* QIWI_Wallet_logotype_en_hor.ai */,
+				46C1F0EE19314CF600D778BE /* QIWI_Wallet_logotype_en_hor.png */,
+				46C1F0EF19314CF600D778BE /* QIWI_Wallet_logotype_en_ver.ai */,
+				46C1F0F019314CF600D778BE /* QIWI_Wallet_logotype_en_ver.png */,
+				46C1F0F119314CF600D778BE /* Бритву */,
+				46C1F0F619314CF600D778BE /* Касперский */,
+				46C1F0FA19314CF600D778BE /* Подписка на женское бельё */,
+			);
+			name = "Демо материалы";
+			sourceTree = "<group>";
+		};
+		46C1F0F119314CF600D778BE /* Бритву */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0F219314CF600D778BE /* img-01.jpg */,
+				46C1F0F319314CF600D778BE /* img-05.jpg */,
+				46C1F0F419314CF600D778BE /* LOGO.png */,
+				46C1F0F519314CF600D778BE /* Новый текстовый документ.txt */,
+			);
+			path = "Бритву";
+			sourceTree = "<group>";
+		};
+		46C1F0F619314CF600D778BE /* Касперский */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0F719314CF600D778BE /* box2014_2.jpg */,
+				46C1F0F819314CF600D778BE /* LOGO.png */,
+				46C1F0F919314CF600D778BE /* Новый текстовый документ.txt */,
+			);
+			path = "Касперский";
+			sourceTree = "<group>";
+		};
+		46C1F0FA19314CF600D778BE /* Подписка на женское бельё */ = {
+			isa = PBXGroup;
+			children = (
+				46C1F0FB19314CF600D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */,
+				46C1F0FC19314CF600D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */,
+				46C1F0FD19314CF600D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png */,
+				46C1F0FE19314CF600D778BE /* LOGO.png */,
+				46C1F0FF19314CF600D778BE /* LOGO2.png */,
+				46C1F10019314CF600D778BE /* демо женскрго.txt */,
+			);
+			path = "Подписка на женское бельё";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		46C1F07219313D3E00D778BE /* TEMP */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 46C1F0A519313D3F00D778BE /* Build configuration list for PBXNativeTarget "TEMP" */;
+			buildPhases = (
+				46C1F06F19313D3E00D778BE /* Sources */,
+				46C1F07019313D3E00D778BE /* Frameworks */,
+				46C1F07119313D3E00D778BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TEMP;
+			productName = TEMP;
+			productReference = 46C1F07319313D3E00D778BE /* TEMP.app */;
+			productType = "com.apple.product-type.application";
+		};
+		46C1F09319313D3F00D778BE /* TEMPTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 46C1F0A819313D3F00D778BE /* Build configuration list for PBXNativeTarget "TEMPTests" */;
+			buildPhases = (
+				46C1F09019313D3F00D778BE /* Sources */,
+				46C1F09119313D3F00D778BE /* Frameworks */,
+				46C1F09219313D3F00D778BE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				46C1F09A19313D3F00D778BE /* PBXTargetDependency */,
+			);
+			name = TEMPTests;
+			productName = TEMPTests;
+			productReference = 46C1F09419313D3F00D778BE /* TEMPTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		46C1F06B19313D3E00D778BE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Dimones-dev";
+				TargetAttributes = {
+					46C1F09319313D3F00D778BE = {
+						TestTargetID = 46C1F07219313D3E00D778BE;
+					};
+				};
+			};
+			buildConfigurationList = 46C1F06E19313D3E00D778BE /* Build configuration list for PBXProject "TEMP" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 46C1F06A19313D3E00D778BE;
+			productRefGroup = 46C1F07419313D3E00D778BE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				46C1F07219313D3E00D778BE /* TEMP */,
+				46C1F09319313D3F00D778BE /* TEMPTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		46C1F07119313D3E00D778BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4661A9A21931B8DF00779D6C /* most(3 tab).png in Resources */,
+				46C1F10E19314CF600D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */,
+				46C1F0E819314ABE00D778BE /* mis_01-c149415d32b5c22bc3d9c770b2f1d421.jpg in Resources */,
+				4661A9A71931B8DF00779D6C /* visa.png in Resources */,
+				46C1F10F19314CF600D778BE /* LOGO.png in Resources */,
+				46C1F0DC193149C200D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */,
+				46C1F0C0193144EF00D778BE /* Untitled-1 copy.png in Resources */,
+				46C1F08F19313D3E00D778BE /* Images.xcassets in Resources */,
+				4661A99D1931B8DF00779D6C /* 111.png in Resources */,
+				4661A9A11931B8DF00779D6C /* mastercard.png in Resources */,
+				46C1F10219314CF600D778BE /* QIWI_Wallet_logotype_en_hor.png in Resources */,
+				46C1F10C19314CF600D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */,
+				46C1F0B8193144EF00D778BE /* 1.png in Resources */,
+				46C1F10619314CF600D778BE /* img-05.jpg in Resources */,
+				46C1F0C1193144EF00D778BE /* Untitled-1.psd in Resources */,
+				46C1F0B9193144EF00D778BE /* 2.png in Resources */,
+				46C1F0DB193149C200D778BE /* 2014-05-24 19-28-38 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */,
+				46C1F0DE193149C200D778BE /* LOGO.png in Resources */,
+				46C1F0D6193149C200D778BE /* LOGO.png in Resources */,
+				46C1F11019314CF600D778BE /* LOGO2.png in Resources */,
+				46C1F10D19314CF600D778BE /* 2014-05-24 19-29-33 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */,
+				46C1F10319314CF600D778BE /* QIWI_Wallet_logotype_en_ver.ai in Resources */,
+				46C1F0DD193149C200D778BE /* 2014-05-24 19-30-14 Welcome to Panty by Post - PantybyPost.com - Google Chrome.png in Resources */,
+				4661A9A51931B8DF00779D6C /* Untitled-1 copy.png in Resources */,
+				46C1F08119313D3E00D778BE /* InfoPlist.strings in Resources */,
+				46C1F0D4193149C200D778BE /* img-01.jpg in Resources */,
+				4661A99F1931B8DF00779D6C /* company(4 -5 tab).png in Resources */,
+				4661A9A61931B8DF00779D6C /* Untitled-1.psd in Resources */,
+				46C1F08A19313D3E00D778BE /* Main.storyboard in Resources */,
+				46C1F0EB19314ABE00D778BE /* Новый текстовый документ.txt in Resources */,
+				46C1F10B19314CF600D778BE /* Новый текстовый документ.txt in Resources */,
+				46C1F10719314CF600D778BE /* LOGO.png in Resources */,
+				4661A99E1931B8DF00779D6C /* 2.png in Resources */,
+				46C1F0EA19314ABE00D778BE /* siQwktQpHQbJ7dYGCMTQfQ-article.jpg in Resources */,
+				46C1F0D5193149C200D778BE /* img-05.jpg in Resources */,
+				46C1F0BA193144EF00D778BE /* company(4 -5 tab).png in Resources */,
+				46C1F0DF193149C200D778BE /* LOGO2.png in Resources */,
+				4661A99C1931B8DF00779D6C /* 1.png in Resources */,
+				46C1F0E719314ABE00D778BE /* 135125125.png in Resources */,
+				46C1F0BD193144EF00D778BE /* most(3 tab).png in Resources */,
+				4661A9A01931B8DF00779D6C /* like(3tab).png in Resources */,
+				46C1F11119314CF600D778BE /* демо женскрго.txt in Resources */,
+				46C1F0E0193149C200D778BE /* демо женскрго.txt in Resources */,
+				46C1F0D9193149C200D778BE /* LOGO.png in Resources */,
+				46C1F10519314CF600D778BE /* img-01.jpg in Resources */,
+				46C1F10119314CF600D778BE /* QIWI_Wallet_logotype_en_hor.ai in Resources */,
+				4661A9A31931B8DF00779D6C /* most(3tab).png in Resources */,
+				4661A9A41931B8DF00779D6C /* paypal.png in Resources */,
+				46C1F0D7193149C200D778BE /* Новый текстовый документ.txt in Resources */,
+				46C1F10A19314CF600D778BE /* LOGO.png in Resources */,
+				46C1F10819314CF600D778BE /* Новый текстовый документ.txt in Resources */,
+				46C1F0E919314ABE00D778BE /* mis_04-b6be5bb75bfcc6ba61de77a2c41a2994.jpg in Resources */,
+				46C1F10419314CF600D778BE /* QIWI_Wallet_logotype_en_ver.png in Resources */,
+				46C1F0D8193149C200D778BE /* box2014_2.jpg in Resources */,
+				46C1F0DA193149C200D778BE /* Новый текстовый документ.txt in Resources */,
+				46C1F10919314CF600D778BE /* box2014_2.jpg in Resources */,
+				46C1F0BB193144EF00D778BE /* like(3tab).png in Resources */,
+				46C1F0C2193144EF00D778BE /* visa.png in Resources */,
+				46C1F0BC193144EF00D778BE /* mastercard.png in Resources */,
+				46C1F0BE193144EF00D778BE /* most(3tab).png in Resources */,
+				46C1F0BF193144EF00D778BE /* paypal.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		46C1F09219313D3F00D778BE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46C1F0A019313D3F00D778BE /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		46C1F06F19313D3E00D778BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46C1F08D19313D3E00D778BE /* ViewController.m in Sources */,
+				46C1F08719313D3E00D778BE /* AppDelegate.m in Sources */,
+				46C1F08319313D3E00D778BE /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		46C1F09019313D3F00D778BE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				46C1F0A219313D3F00D778BE /* TEMPTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		46C1F09A19313D3F00D778BE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 46C1F07219313D3E00D778BE /* TEMP */;
+			targetProxy = 46C1F09919313D3F00D778BE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		46C1F07F19313D3E00D778BE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				46C1F08019313D3E00D778BE /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		46C1F08819313D3E00D778BE /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				46C1F08919313D3E00D778BE /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		46C1F09E19313D3F00D778BE /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				46C1F09F19313D3F00D778BE /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		46C1F0A319313D3F00D778BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		46C1F0A419313D3F00D778BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46C1F0A619313D3F00D778BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TEMP/TEMP-Prefix.pch";
+				INFOPLIST_FILE = "TEMP/TEMP-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		46C1F0A719313D3F00D778BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TEMP/TEMP-Prefix.pch";
+				INFOPLIST_FILE = "TEMP/TEMP-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		46C1F0A919313D3F00D778BE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TEMP.app/TEMP";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TEMP/TEMP-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "TEMPTests/TEMPTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		46C1F0AA19313D3F00D778BE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/TEMP.app/TEMP";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "TEMP/TEMP-Prefix.pch";
+				INFOPLIST_FILE = "TEMPTests/TEMPTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		46C1F06E19313D3E00D778BE /* Build configuration list for PBXProject "TEMP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46C1F0A319313D3F00D778BE /* Debug */,
+				46C1F0A419313D3F00D778BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		46C1F0A519313D3F00D778BE /* Build configuration list for PBXNativeTarget "TEMP" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46C1F0A619313D3F00D778BE /* Debug */,
+				46C1F0A719313D3F00D778BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		46C1F0A819313D3F00D778BE /* Build configuration list for PBXNativeTarget "TEMPTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				46C1F0A919313D3F00D778BE /* Debug */,
+				46C1F0AA19313D3F00D778BE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 46C1F06B19313D3E00D778BE /* Project object */;
+}
